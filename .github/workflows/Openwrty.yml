@@ -15,7 +15,7 @@ on:
       - master
   schedule:
     - cron: 0 20 * * *
-   release:
+    release:
     types: [published]
 
 jobs:
